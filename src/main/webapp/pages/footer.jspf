@@ -1,0 +1,16 @@
+<%@ page pageEncoding="UTF-8" %>
+
+<footer>
+    <div class="container">
+        <div class="row well">
+            <div align="center">
+                <address>
+                    <strong>Mikhail Ionkin</strong><br>
+                    <a href="mailto:#">ionkinmikhail@gmail.com</a>
+                </address>
+            </div>
+        </div>
+    </div>
+</footer>
+</body>
+</html>
